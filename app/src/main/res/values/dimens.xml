@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <bool name="two_panels">false</bool>
+</resources>
